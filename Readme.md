@@ -1,6 +1,6 @@
 # Project Board App
 
-En board-baseret Project Board-applikation bygget i React (JavaScript).
+En board baseret Project Board applikation bygget i React (JavaScript).
 
 Projektet er lavet for at vise praktisk frontend-arbejde med fokus på struktur, brugerflow og state management.
 
