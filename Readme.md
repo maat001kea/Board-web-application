@@ -29,4 +29,20 @@ Workflowet er inspireret af board-baserede værktøjer som GitHub Projects.
 ---
 
 ## Projektstruktur
+Projektet er opdelt i tydelige komponenter med hvert sit ansvar:
+
+- **Board.jsx**  
+  Indeholder hovedlogik, state, localStorage og drag & drop
+
+- **Column.jsx**  
+  Viser en kolonne og fungerer som drop zone
+
+- **Card.jsx**  
+  Viser et enkelt card og gør det draggable
+
+- **CardForm.jsx**  
+  Bruges til oprettelse og redigering af cards
+
+- **storage.js**  
+  Hjælpefunktioner til håndtering af localStorage
 
